@@ -1,6 +1,7 @@
 # Messenger App
 
-Full Stack E-commerce App that lets users log in, browse products, add products to the cart, & check out. It shows user analytics & allows you to list products. It provides security of credentials using JWT
+Chat Messaging App [JavaScript, React, Node.js, Trillo, Stream API, React Context API] - Full Stack Chat Application with Authentication & SMS Notifications
+with direct-end group chats, emojis, built-in gif support, delete & edit messages, server-side auth, client-side auth, client-server communication.
 
 Languages and Tools: 
 - Javascript, 
