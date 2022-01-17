@@ -9,6 +9,7 @@ Languages and Tools:
 - Node.js, 
 - Trillo, 
 - Stream API
+- React Context API
 
 <img width="1280" alt="app" src="https://user-images.githubusercontent.com/87906936/149663665-b49cbe8e-7c5e-4c04-a509-edaaaaade388.png">
 
