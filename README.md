@@ -4,10 +4,10 @@ Chat Messaging App [JavaScript, React, Node.js, Trillo, Stream API, React Contex
 with direct-end group chats, emojis, built-in gif support, delete & edit messages, server-side auth, client-side auth, client-server communication.
 
 Languages and Tools: 
-- Javascript, 
-- React, 
-- Node.js, 
-- Trillo, 
+- Javascript
+- React
+- Node.js
+- Trillo
 - Stream API
 - React Context API
 
